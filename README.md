@@ -9,10 +9,15 @@
 
 申请编辑？请联系 grassblock@duck.com
 
+## Markdown 表格
+根据 JSON 自动构建，感谢 @def096
+
+查看 [dist/refer.md](./dist/refer.md) 以获取
+
 ## JSON
 可以结合JavaScript等实现自动切换，方便快捷。
 
-查看 /src 来获取分类对应字串
+查看 [src](./src) 来获取分类对应字串
 
 可供参考的内容： [replace() 参考手册](https://www.runoob.com/jsref/jsref-replace.html)
 
