@@ -1,5 +1,5 @@
 # 这是什么？
-一份[喵体中文](https://t.me/setlanguage/meowcn)的翻译指南。如果你想让你的应用更加的可爱的话，字串可以参考此库。
+一份喵体中文的翻译指南。如果你想让你的应用更加的可爱的话，字串可以参考此库。
 
 # 怎么使用？
 ## M$ Excel 表格
@@ -22,4 +22,4 @@
 可供参考的内容： [replace() 参考手册](https://www.runoob.com/jsref/jsref-replace.html)
 
 # 如何贡献？
-开 Pull request 和 issue 均可，一起让喵喵语为更多人所了解！
+开 pull request 和 issue 均可，一起让喵喵语为更多人所了解！
